@@ -1,0 +1,21 @@
+.profile-form-container {
+    color: #FFFFFF;
+    
+}
+
+.user-name-box {
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    background-color: #15202B;
+}
+
+.user-name-box:focus{
+    background-color: #15202B;
+    color: #FFFFFF;
+}
+
+.page-header {
+    font-size: 2.25rem;
+
+}
+

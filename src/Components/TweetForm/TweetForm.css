@@ -1,0 +1,16 @@
+.tweet-form {
+    border: none;
+    resize: none;
+    background-color: #15202B;
+    
+}
+
+.tweet-form:focus, textarea:focus {
+    background-color: #15202B;
+    color: #FFFFFF;
+}
+
+.form-container {
+    border: 2px solid #FFFFFF;
+    border-radius: 6px; 
+}

@@ -1,0 +1,11 @@
+.tweet-container {
+    border: 2px solid #CCCCCC;
+    border-radius: 6px;
+    word-wrap: nowrap;
+    background-color: #343A40;
+    color: #FFFFFF;
+}
+
+.tweet-text {
+    font-size: 1rem;
+}

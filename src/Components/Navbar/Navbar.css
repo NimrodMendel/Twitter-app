@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #343A40;
+    border-radius: 6px;
+}
+
+.navbar-link-list {
+    list-style-type: none;
+}
+
+.page-link, .page-link:hover, .page-link:visited{
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #343A40;
+    border: none;
+}
